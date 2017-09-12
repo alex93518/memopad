@@ -5,7 +5,7 @@ import WebpackDevServer from 'webpack-dev-server';
 import webpack from 'webpack';
 
 import morgan from 'morgan'; //http request logger
-import bodyParse from 'body-parser';
+import bodyParser from 'body-parser';
 
 import mongoose from 'mongoose';
 import session from 'express-session';
